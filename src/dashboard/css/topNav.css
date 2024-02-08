@@ -1,0 +1,17 @@
+.topNav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 100%;
+    background: #fff;
+}
+
+.topNav .icons i{
+   background: #f1f1f1;
+   padding: 10px 13px;
+   margin-right: 15px;
+   border-radius: 3px;
+   text-align: center;
+}

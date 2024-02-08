@@ -1,0 +1,32 @@
+{
+    "history":[
+        {
+            "id":1,
+            "number":"ZIPJF20243001",
+            "from": "Accra",
+            "to":"Tema",
+            "status":"Pending"
+        },
+        {
+            "id":2,
+            "number":"ZIPJF20243002",
+            "from": "Labone",
+            "to":"Madina",
+            "status":"In Progress"
+        },
+        {
+            "id":3,
+            "number":"ZIPJF20243003",
+            "from": "Osu",
+            "to":"Kasoa",
+            "status":"Delivered"
+        },
+        {
+            "id":4,
+            "number":"ZIPJF20243004",
+            "from": "Legon",
+            "to":"Dzorwulu",
+            "status":"Delivered"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+/* Sidebar */
+.sidebar{
+    width: 18%;
+    height: 100vh;
+    position: fixed;
+    padding: 20px;
+    box-sizing: border-box;
+    border-right: 1px solid #f1f1f1;
+    background: #fff;
+}
+.sidebar .logo{
+    height: 50px;
+}

@@ -1,0 +1,10 @@
+.listGroup{
+    margin-top: 40px;
+}
+.listGroup button{
+    display: block;
+    width: 90%;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}

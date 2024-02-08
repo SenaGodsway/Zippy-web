@@ -1,0 +1,16 @@
+.promoCard{
+    width: 50%;
+    background: teal;
+    margin-left: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    color: #fff;
+}
+.claim-btn{
+    width: 100%;
+    background: rgb(49, 235, 235);
+    border: none;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 10px;
+}

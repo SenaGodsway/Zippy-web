@@ -1,0 +1,15 @@
+.main-dashboard{
+    display: flex;
+    box-sizing: border-box;
+    background: #f1f1f1;
+}
+.mainContent{
+    margin-left: 18%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.content-div{
+    display: flex;
+    justify-content: space-evenly;
+}

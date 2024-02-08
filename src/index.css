@@ -1,0 +1,13 @@
+@font-face {
+  font-family: mont;
+  src: url(/public/font/Montserrat-Regular.ttf);
+}
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  font-family: mont;
+}
+--root{
+  --gray-color:#eee;
+}

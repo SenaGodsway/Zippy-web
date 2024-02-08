@@ -1,0 +1,13 @@
+.content{
+    background: #f1f1f1;
+    width: 100%;
+    box-sizing: border-box;
+    justify-content: space-between;
+    padding: 15px;
+    
+}
+.div{
+    display: flex;
+    width: 100%;
+    padding-top: 20px;
+}

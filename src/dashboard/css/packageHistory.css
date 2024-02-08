@@ -1,0 +1,21 @@
+.packageHistory{
+    width: 27%;
+    margin: 20px;
+    padding: 10px;
+    background: #fff;
+    border-radius: 5px;
+}
+.heading{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+.heading i{
+    padding: 8px;
+    height: 15px;
+    width: 15px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    text-align: center;
+}
